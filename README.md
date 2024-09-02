@@ -1,7 +1,11 @@
 ![appdetail](https://github.com/user-attachments/assets/d3be73c6-79f0-4559-bf09-2726973b4815)
 
 
+![appdetail](https://github.com/user-attachments/assets/e0fc27f9-38d4-4823-88a6-68b5879d1cbd)
 
+![appsignin](https://github.com/user-attachments/assets/859e5211-be9b-4eff-93dd-a6ce1ba87de4)
+
+![appsignup](https://github.com/user-attachments/assets/63348ef5-46f6-4673-acc2-44476ac5e4df)
 
 
 
